@@ -155,4 +155,5 @@ footer {
   letter-spacing: 0.1em;
   color: var(--ink-3);
 }
+footer a { text-decoration: underline; text-underline-offset: 3px; }
 footer a:hover { color: var(--ink-2); }
